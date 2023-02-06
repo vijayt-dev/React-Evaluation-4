@@ -151,6 +151,7 @@ export default App;
 Prop drilling is a passing data through several nested children components unitl you get to the component where the data is needed.
 
 ## 7) Is it possible to use react without JSX?
+Yes, It is possible to use react without JSX
 
 **Example**
 
